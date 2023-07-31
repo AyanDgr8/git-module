@@ -9,3 +9,4 @@ heyoooooooooooooooo
 6)git checkout -b "<branch name>" --> create branch
 7)git branch --> shows all the branches
 8)git fetch --> to get all the branches 
+9)git merge --> brings all the changes from one file to another
